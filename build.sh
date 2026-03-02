@@ -1,5 +1,5 @@
 #!/bin/bash
-GEMINI_CLI_VERSION=v0.13.0
+GEMINI_CLI_VERSION=v0.31.0
 echo "GEMINI_CLI_NO_RELAUNCH=true" > .env
 OUT_DIR=./dist
 rm -rf $OUT_DIR/*
